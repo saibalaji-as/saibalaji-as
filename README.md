@@ -1,7 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Sai balaji, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/10597/10597864.png" width="13"/> <b>Chennai, Tamilnadu</b>. </p>
-<p>Reach me through <a style:"text-decoration: 'none'; color: aqua" href="saibalaji315@gmail.com">saibalaji315@gmail.com</a></p>
+<label>Reach me through: </label>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRtsfkgfrkwcpkfqsFnpLlkfDTsKrCqmjstlWGGWfXQfqHMvDqCqHXZzxDpdwxPBBxxHbwg">saibalaji315@gmail.com</a>
+<a href="https://www.linkedin.com/in/saibalaji-subramanian-063707171?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
 <h3>Things I code with</h3>
 <p>
   <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" />
